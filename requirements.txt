@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+yfinance
+scikit-learn
+keras
+tensorflow
+setuptools
+distlib
+streamlit
